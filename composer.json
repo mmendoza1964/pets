@@ -1,0 +1,17 @@
+{
+  "name": "https://github.com/mmendoza1964/pets.git",
+  "authors": [
+    {
+      "name": "Yurii Zhuk",
+      "email": "yzhuk@mail.greenriver.edu"
+    },
+    {
+      "name": "Mark Mendoza",
+      "email": "mmendoza-rabara@mail.greenriver.edu"
+    }
+  ],
+  "require": {
+    "bcosca/fatfree-core": "dev-master"
+  }
+
+}
